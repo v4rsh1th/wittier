@@ -1,3 +1,22 @@
 .title {
-    text-align: center;
+  text-align: center;
+}
+
+.wit-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.button-primary {
+  width: 30%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.loading {
+  text-align: center;
 }
